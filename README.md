@@ -1,5 +1,5 @@
-# ssrule
+# QuantumultX config
 
 ```
-https://raw.githubusercontent.com/ghost-cat/ssrule/master/ios-rule.conf
+https://github.com/ghost-cat/QuantumultX/blob/master/quantumultx.conf
 ```
