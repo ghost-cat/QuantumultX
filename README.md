@@ -1,5 +1,5 @@
 # QuantumultX config
 
 ```
-https://github.com/ghost-cat/QuantumultX/blob/master/quantumultx.conf
+https://raw.githubusercontent.com/ghost-cat/QuantumultX/master/quantumultx.conf
 ```
